@@ -45,5 +45,5 @@ Doing this iteratively will slowly make the problem easier until it is solved.
 
 **Contact**
 - If you encounter any error you could always reach out for my help through discord!
-{Discord}--> Growtoken
+{Discord}--> growtoken
 - ENJOY YOUR NEW CALCULATOR!
